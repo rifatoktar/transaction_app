@@ -1,5 +1,11 @@
 # tracky
 
+Transaction App UI Design with Flutter and Figma
+
+You can observe to predesign process in Figma
+
+![transaction_app](https://user-images.githubusercontent.com/105917287/204148794-a29fdb71-3c90-443b-91c6-47f263697ab6.png)
+
 A new Flutter project.
 
 ## Getting Started
